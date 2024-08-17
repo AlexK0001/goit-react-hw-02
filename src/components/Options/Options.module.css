@@ -1,0 +1,9 @@
+.container {
+display: flex;
+text-align: left;
+gap: 5px;
+}
+.btn {
+background-color: #e6e1e1;
+border: 2px solid gray;
+}
